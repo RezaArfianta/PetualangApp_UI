@@ -1,3 +1,3 @@
 # petualangapp
 
-untuk isi aplikasi ada folder lib.
+untuk isi aplikasi ada di dalam folder lib.
